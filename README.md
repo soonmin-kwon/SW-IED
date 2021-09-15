@@ -3,5 +3,5 @@
 
 ### Arduino Uno Homework Code
 
-| # | Homework Code | Code |
-|---| ------------- | ---- | 
+| Homewrok Code| Code |
+|--------------| ---- |
