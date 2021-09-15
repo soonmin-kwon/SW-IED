@@ -5,4 +5,4 @@
 
 | # | Homewrok Code | Code | Link |
 | - | ------------- | ---- | ---- |
-|1|04P9|[04_example_3](./code/04_example.3.ino)|-|
+|1|04P9|[04_example_3](./code/04_example_3.ino)|-|
